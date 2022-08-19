@@ -14,3 +14,8 @@ e também possui um diretório 'images' que guarda o que seriam imagens a serem 
 ## Licença do projeto:
 Dada a tamanha importância e relevância deste projeto para a comunidade global - 
 e a fim de se beneficiar a todos - se faz totalmente livre seu uso para quaisquer finalidades.
+
+## Colaboradores
+
+##### - [Victor Bold](https://github.com/VictorIsBold)
+##### - [Antonio Higino](https://github.com/antonio-higino) - Atualizações no README
